@@ -28,14 +28,6 @@ Analysed 194 months of NHS England A&E activity data to investigate attendance t
 
 **[View the interactive Tableau dashboard](https://public.tableau.com/app/profile/nusrat.jahan.shaikh7284/viz/NHSAEActivityAnalysisEngland20112025/NHSAEOverview)**
 
-
-## Tools and Technologies
-
-- SQL
-- Git and GitHub
-- SQLite
-- Tableau Public
-
 ## Approach
 
 My projects will document the analytical process, including research questions, data sources, data quality checks, SQL queries, visualisations, findings, limitations, and conclusions.
