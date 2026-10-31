@@ -1,23 +1,49 @@
-# NHS A&E Activity Analysis
 
-An exploratory analysis of NHS England A&E attendances from 2010 to September 2026, using SQL Server for data validation and analysis and Tableau Public for visualisation.
+# NHS A&E Activity Analysis | England
+
+## Project Overview
+
+An exploratory analysis of NHS England's monthly A&E attendance data using SQL Server and Tableau Public.
+
+The project investigates long-term attendance trends, changes in demand across A&E department types, and data-quality challenges encountered during analysis.
+
+**Analysis period:** August 2010 – September 2026  
+**Annual comparisons:** 2011–2025 (complete calendar years)
 
 ## Interactive Dashboard
 
 [View the NHS A&E Tableau Dashboard](https://public.tableau.com/app/profile/nusrat.jahan.shaikh7284/viz/NHSAEActivityAnalysisEngland20112025/NHSAEOverview)
 
-## Project Objectives
+## Key Findings
 
-- Examine long-term trends in A&E attendances.
-- Compare activity across Type 1, Type 2 and Type 3 departments.
-- Investigate changes between 2019 and 2025.
-- Explore monthly patterns in attendance.
-- Validate the source data and document data-quality findings.
+- **8.45% increase in total A&E attendances** between 2019 and 2025, from approximately 25.64 million to 27.80 million.
+- **15.07% increase in Type 3 attendances** between 2019 and 2025, compared with approximately 4.98% for Type 1 departments.
+- **Substantial decline in attendances in 2020**, followed by recovery and growth in subsequent years.
+- **July 2026 recorded the highest monthly attendance** in the extracted dataset, at approximately 2.49 million.
 
-## Tools
+These findings describe reported activity and should be interpreted alongside changes in reporting definitions and data coverage.
 
-SQL Server Management Studio (SSMS), Microsoft SQL Server, Excel and Tableau Public.
+## Tools and Skills
 
-## Project Status
+- **SQL Server:** Data import, validation, aggregation and trend analysis.
+- **SQL:** GROUP BY, SUM, AVG, CASE, date functions and filtering.
+- **Tableau Public:** Interactive visualisation, calculated KPIs and dashboard design.
+- **Data quality:** Precision investigation, corrected data types and reconciliation testing.
 
-Dashboard published. SQL scripts, detailed findings and data-quality documentation are being added.
+## Data Quality
+
+During validation, I identified discrepancies introduced by numerical precision loss during the initial SQL import.
+
+After reimporting the dataset using DECIMAL(18,10), all 194 monthly records passed the attendance reconciliation check at a tolerance of 0.000001.
+
+[Read the data-quality investigation](data-quality-notes.md)
+
+## SQL Analysis
+
+[View the SQL analysis queries](analysis.sql)
+
+## Data Source
+
+NHS England — [A&E Attendances and Emergency Admissions](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/)
+
+The dataset covers England. Historical estimates, reporting changes and incomplete calendar years are documented in the data-quality notes.
