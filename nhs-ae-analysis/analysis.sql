@@ -48,3 +48,30 @@ FROM dbo.NHS_AE_Activity_Corrected
 WHERE YEAR(period) BETWEEN 2016 AND 2025
 GROUP BY MONTH(period)
 ORDER BY month_number;
+
+
+
+-- 5. Data-quality validation: attendance reconciliation
+-- Check whether reported total attendances equal the sum
+-- of Type 1, Type 2 and Type 3 department attendances.
+-- A tolerance of 0.000001 allows for tiny decimal differences.
+
+SELECT
+    COUNT(*) AS total_months,
+
+    COUNT(
+        CASE
+            WHEN ABS(
+                total_attendances
+                - (
+                    type_1_departments_major_a_and_e
+                    + type_2_departments_single_specialty
+                    + type_3_departments_other_a_and_e_minor_injury_unit
+                )
+            ) > 0.000001
+            THEN 1
+        END
+    ) AS months_with_difference
+
+FROM dbo.NHS_AE_Activity_Corrected;
+
