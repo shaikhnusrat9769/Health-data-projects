@@ -242,8 +242,8 @@ The dashboard presents:
 | File | Description |
 |---|---|
 | `README.md` | Project overview, methodology, findings and limitations |
-| `Born_Too_Soon_Analysis.sql` | SQL queries used to investigate the research questions |
-| `Born_Too_Soon_Data_Checks.sql` | SQL queries used for data exploration and quality assessment |
+| `Born_Too_Soon_Analysis.sql` | SQL queries investigating national preterm birth rates, regional differences, gestational-age distributions and births before 32 weeks |
+
 
 ## Author
 
