@@ -1,0 +1,119 @@
+﻿Org_Level,Org_Code,Org_Name,Dimension,Measure,Count_Of,Final_value,ReportingPeriodStartDate,ReportingPeriodEndDate
+National,ALL,ALL SUBMITTERS,GestationLengthBirth,27 weeks and under,Babies,240,2026-07-01,2026-07-31
+National,ALL,ALL SUBMITTERS,GestationLengthBirth,28 to 31 weeks,Babies,320,2026-07-01,2026-07-31
+National,ALL,ALL SUBMITTERS,GestationLengthBirth,32 to 33 weeks,Babies,385,2026-07-01,2026-07-31
+National,ALL,ALL SUBMITTERS,GestationLengthBirth,34 to 36 weeks,Babies,2660,2026-07-01,2026-07-31
+National,ALL,ALL SUBMITTERS,GestationLengthBirth,37 weeks,Babies,4470,2026-07-01,2026-07-31
+National,ALL,ALL SUBMITTERS,GestationLengthBirth,38 weeks,Babies,7630,2026-07-01,2026-07-31
+National,ALL,ALL SUBMITTERS,GestationLengthBirth,39 weeks,Babies,16270,2026-07-01,2026-07-31
+National,ALL,ALL SUBMITTERS,GestationLengthBirth,40 weeks,Babies,9575,2026-07-01,2026-07-31
+National,ALL,ALL SUBMITTERS,GestationLengthBirth,41 weeks,Babies,4630,2026-07-01,2026-07-31
+National,ALL,ALL SUBMITTERS,GestationLengthBirth,42 weeks,Babies,390,2026-07-01,2026-07-31
+National,ALL,ALL SUBMITTERS,GestationLengthBirth,43 weeks and over,Babies,10,2026-07-01,2026-07-31
+National,ALL,ALL SUBMITTERS,GestationLengthBirth,Missing Value / Value outside reporting parameters,Babies,165,2026-07-01,2026-07-31
+National,ALL,ALL SUBMITTERS,GestationLengthBirthGroup37,<37 weeks,Babies,3605,2026-07-01,2026-07-31
+National,ALL,ALL SUBMITTERS,GestationLengthBirthGroup37,>=37 weeks,Babies,42975,2026-07-01,2026-07-31
+National,ALL,ALL SUBMITTERS,GestationLengthBirthGroup37,Missing Value / Value outside reporting parameters,Babies,165,2026-07-01,2026-07-31
+NHS England (Region),Y61,EAST OF ENGLAND COMMISSIONING REGION,GestationLengthBirth,27 weeks and under,Babies,15,2026-07-01,2026-07-31
+NHS England (Region),Y61,EAST OF ENGLAND COMMISSIONING REGION,GestationLengthBirth,28 to 31 weeks,Babies,35,2026-07-01,2026-07-31
+NHS England (Region),Y61,EAST OF ENGLAND COMMISSIONING REGION,GestationLengthBirth,32 to 33 weeks,Babies,40,2026-07-01,2026-07-31
+NHS England (Region),Y61,EAST OF ENGLAND COMMISSIONING REGION,GestationLengthBirth,34 to 36 weeks,Babies,295,2026-07-01,2026-07-31
+NHS England (Region),Y61,EAST OF ENGLAND COMMISSIONING REGION,GestationLengthBirth,37 weeks,Babies,505,2026-07-01,2026-07-31
+NHS England (Region),Y61,EAST OF ENGLAND COMMISSIONING REGION,GestationLengthBirth,38 weeks,Babies,895,2026-07-01,2026-07-31
+NHS England (Region),Y61,EAST OF ENGLAND COMMISSIONING REGION,GestationLengthBirth,39 weeks,Babies,1845,2026-07-01,2026-07-31
+NHS England (Region),Y61,EAST OF ENGLAND COMMISSIONING REGION,GestationLengthBirth,40 weeks,Babies,1105,2026-07-01,2026-07-31
+NHS England (Region),Y61,EAST OF ENGLAND COMMISSIONING REGION,GestationLengthBirth,41 weeks,Babies,535,2026-07-01,2026-07-31
+NHS England (Region),Y61,EAST OF ENGLAND COMMISSIONING REGION,GestationLengthBirth,42 weeks,Babies,50,2026-07-01,2026-07-31
+NHS England (Region),Y61,EAST OF ENGLAND COMMISSIONING REGION,GestationLengthBirth,43 weeks and over,Babies,5,2026-07-01,2026-07-31
+NHS England (Region),Y61,EAST OF ENGLAND COMMISSIONING REGION,GestationLengthBirth,Missing Value / Value outside reporting parameters,Babies,5,2026-07-01,2026-07-31
+NHS England (Region),Y61,EAST OF ENGLAND COMMISSIONING REGION,GestationLengthBirthGroup37,<37 weeks,Babies,380,2026-07-01,2026-07-31
+NHS England (Region),Y61,EAST OF ENGLAND COMMISSIONING REGION,GestationLengthBirthGroup37,>=37 weeks,Babies,4935,2026-07-01,2026-07-31
+NHS England (Region),Y61,EAST OF ENGLAND COMMISSIONING REGION,GestationLengthBirthGroup37,Missing Value / Value outside reporting parameters,Babies,5,2026-07-01,2026-07-31
+NHS England (Region),Y56,LONDON COMMISSIONING REGION,GestationLengthBirth,27 weeks and under,Babies,50,2026-07-01,2026-07-31
+NHS England (Region),Y56,LONDON COMMISSIONING REGION,GestationLengthBirth,28 to 31 weeks,Babies,50,2026-07-01,2026-07-31
+NHS England (Region),Y56,LONDON COMMISSIONING REGION,GestationLengthBirth,32 to 33 weeks,Babies,95,2026-07-01,2026-07-31
+NHS England (Region),Y56,LONDON COMMISSIONING REGION,GestationLengthBirth,34 to 36 weeks,Babies,485,2026-07-01,2026-07-31
+NHS England (Region),Y56,LONDON COMMISSIONING REGION,GestationLengthBirth,37 weeks,Babies,880,2026-07-01,2026-07-31
+NHS England (Region),Y56,LONDON COMMISSIONING REGION,GestationLengthBirth,38 weeks,Babies,1560,2026-07-01,2026-07-31
+NHS England (Region),Y56,LONDON COMMISSIONING REGION,GestationLengthBirth,39 weeks,Babies,2795,2026-07-01,2026-07-31
+NHS England (Region),Y56,LONDON COMMISSIONING REGION,GestationLengthBirth,40 weeks,Babies,1765,2026-07-01,2026-07-31
+NHS England (Region),Y56,LONDON COMMISSIONING REGION,GestationLengthBirth,41 weeks,Babies,830,2026-07-01,2026-07-31
+NHS England (Region),Y56,LONDON COMMISSIONING REGION,GestationLengthBirth,42 weeks,Babies,65,2026-07-01,2026-07-31
+NHS England (Region),Y56,LONDON COMMISSIONING REGION,GestationLengthBirth,43 weeks and over,Babies,5,2026-07-01,2026-07-31
+NHS England (Region),Y56,LONDON COMMISSIONING REGION,GestationLengthBirth,Missing Value / Value outside reporting parameters,Babies,130,2026-07-01,2026-07-31
+NHS England (Region),Y56,LONDON COMMISSIONING REGION,GestationLengthBirthGroup37,<37 weeks,Babies,675,2026-07-01,2026-07-31
+NHS England (Region),Y56,LONDON COMMISSIONING REGION,GestationLengthBirthGroup37,>=37 weeks,Babies,7905,2026-07-01,2026-07-31
+NHS England (Region),Y56,LONDON COMMISSIONING REGION,GestationLengthBirthGroup37,Missing Value / Value outside reporting parameters,Babies,130,2026-07-01,2026-07-31
+NHS England (Region),Y60,MIDLANDS COMMISSIONING REGION,GestationLengthBirth,27 weeks and under,Babies,60,2026-07-01,2026-07-31
+NHS England (Region),Y60,MIDLANDS COMMISSIONING REGION,GestationLengthBirth,28 to 31 weeks,Babies,75,2026-07-01,2026-07-31
+NHS England (Region),Y60,MIDLANDS COMMISSIONING REGION,GestationLengthBirth,32 to 33 weeks,Babies,80,2026-07-01,2026-07-31
+NHS England (Region),Y60,MIDLANDS COMMISSIONING REGION,GestationLengthBirth,34 to 36 weeks,Babies,500,2026-07-01,2026-07-31
+NHS England (Region),Y60,MIDLANDS COMMISSIONING REGION,GestationLengthBirth,37 weeks,Babies,855,2026-07-01,2026-07-31
+NHS England (Region),Y60,MIDLANDS COMMISSIONING REGION,GestationLengthBirth,38 weeks,Babies,1470,2026-07-01,2026-07-31
+NHS England (Region),Y60,MIDLANDS COMMISSIONING REGION,GestationLengthBirth,39 weeks,Babies,3180,2026-07-01,2026-07-31
+NHS England (Region),Y60,MIDLANDS COMMISSIONING REGION,GestationLengthBirth,40 weeks,Babies,1765,2026-07-01,2026-07-31
+NHS England (Region),Y60,MIDLANDS COMMISSIONING REGION,GestationLengthBirth,41 weeks,Babies,835,2026-07-01,2026-07-31
+NHS England (Region),Y60,MIDLANDS COMMISSIONING REGION,GestationLengthBirth,42 weeks,Babies,60,2026-07-01,2026-07-31
+NHS England (Region),Y60,MIDLANDS COMMISSIONING REGION,GestationLengthBirth,Missing Value / Value outside reporting parameters,Babies,5,2026-07-01,2026-07-31
+NHS England (Region),Y60,MIDLANDS COMMISSIONING REGION,GestationLengthBirthGroup37,<37 weeks,Babies,715,2026-07-01,2026-07-31
+NHS England (Region),Y60,MIDLANDS COMMISSIONING REGION,GestationLengthBirthGroup37,>=37 weeks,Babies,8160,2026-07-01,2026-07-31
+NHS England (Region),Y60,MIDLANDS COMMISSIONING REGION,GestationLengthBirthGroup37,Missing Value / Value outside reporting parameters,Babies,5,2026-07-01,2026-07-31
+NHS England (Region),Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,GestationLengthBirth,27 weeks and under,Babies,30,2026-07-01,2026-07-31
+NHS England (Region),Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,GestationLengthBirth,28 to 31 weeks,Babies,60,2026-07-01,2026-07-31
+NHS England (Region),Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,GestationLengthBirth,32 to 33 weeks,Babies,60,2026-07-01,2026-07-31
+NHS England (Region),Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,GestationLengthBirth,34 to 36 weeks,Babies,425,2026-07-01,2026-07-31
+NHS England (Region),Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,GestationLengthBirth,37 weeks,Babies,650,2026-07-01,2026-07-31
+NHS England (Region),Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,GestationLengthBirth,38 weeks,Babies,1050,2026-07-01,2026-07-31
+NHS England (Region),Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,GestationLengthBirth,39 weeks,Babies,2545,2026-07-01,2026-07-31
+NHS England (Region),Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,GestationLengthBirth,40 weeks,Babies,1405,2026-07-01,2026-07-31
+NHS England (Region),Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,GestationLengthBirth,41 weeks,Babies,605,2026-07-01,2026-07-31
+NHS England (Region),Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,GestationLengthBirth,42 weeks,Babies,40,2026-07-01,2026-07-31
+NHS England (Region),Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,GestationLengthBirth,43 weeks and over,Babies,5,2026-07-01,2026-07-31
+NHS England (Region),Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,GestationLengthBirth,Missing Value / Value outside reporting parameters,Babies,5,2026-07-01,2026-07-31
+NHS England (Region),Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,GestationLengthBirthGroup37,<37 weeks,Babies,570,2026-07-01,2026-07-31
+NHS England (Region),Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,GestationLengthBirthGroup37,>=37 weeks,Babies,6290,2026-07-01,2026-07-31
+NHS England (Region),Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,GestationLengthBirthGroup37,Missing Value / Value outside reporting parameters,Babies,5,2026-07-01,2026-07-31
+NHS England (Region),Y62,NORTH WEST COMMISSIONING REGION,GestationLengthBirth,27 weeks and under,Babies,35,2026-07-01,2026-07-31
+NHS England (Region),Y62,NORTH WEST COMMISSIONING REGION,GestationLengthBirth,28 to 31 weeks,Babies,40,2026-07-01,2026-07-31
+NHS England (Region),Y62,NORTH WEST COMMISSIONING REGION,GestationLengthBirth,32 to 33 weeks,Babies,35,2026-07-01,2026-07-31
+NHS England (Region),Y62,NORTH WEST COMMISSIONING REGION,GestationLengthBirth,34 to 36 weeks,Babies,370,2026-07-01,2026-07-31
+NHS England (Region),Y62,NORTH WEST COMMISSIONING REGION,GestationLengthBirth,37 weeks,Babies,590,2026-07-01,2026-07-31
+NHS England (Region),Y62,NORTH WEST COMMISSIONING REGION,GestationLengthBirth,38 weeks,Babies,1050,2026-07-01,2026-07-31
+NHS England (Region),Y62,NORTH WEST COMMISSIONING REGION,GestationLengthBirth,39 weeks,Babies,2190,2026-07-01,2026-07-31
+NHS England (Region),Y62,NORTH WEST COMMISSIONING REGION,GestationLengthBirth,40 weeks,Babies,1220,2026-07-01,2026-07-31
+NHS England (Region),Y62,NORTH WEST COMMISSIONING REGION,GestationLengthBirth,41 weeks,Babies,570,2026-07-01,2026-07-31
+NHS England (Region),Y62,NORTH WEST COMMISSIONING REGION,GestationLengthBirth,42 weeks,Babies,40,2026-07-01,2026-07-31
+NHS England (Region),Y62,NORTH WEST COMMISSIONING REGION,GestationLengthBirth,43 weeks and over,Babies,5,2026-07-01,2026-07-31
+NHS England (Region),Y62,NORTH WEST COMMISSIONING REGION,GestationLengthBirth,Missing Value / Value outside reporting parameters,Babies,10,2026-07-01,2026-07-31
+NHS England (Region),Y62,NORTH WEST COMMISSIONING REGION,GestationLengthBirthGroup37,<37 weeks,Babies,475,2026-07-01,2026-07-31
+NHS England (Region),Y62,NORTH WEST COMMISSIONING REGION,GestationLengthBirthGroup37,>=37 weeks,Babies,5665,2026-07-01,2026-07-31
+NHS England (Region),Y62,NORTH WEST COMMISSIONING REGION,GestationLengthBirthGroup37,Missing Value / Value outside reporting parameters,Babies,10,2026-07-01,2026-07-31
+NHS England (Region),Y59,SOUTH EAST COMMISSIONING REGION,GestationLengthBirth,27 weeks and under,Babies,40,2026-07-01,2026-07-31
+NHS England (Region),Y59,SOUTH EAST COMMISSIONING REGION,GestationLengthBirth,28 to 31 weeks,Babies,40,2026-07-01,2026-07-31
+NHS England (Region),Y59,SOUTH EAST COMMISSIONING REGION,GestationLengthBirth,32 to 33 weeks,Babies,45,2026-07-01,2026-07-31
+NHS England (Region),Y59,SOUTH EAST COMMISSIONING REGION,GestationLengthBirth,34 to 36 weeks,Babies,400,2026-07-01,2026-07-31
+NHS England (Region),Y59,SOUTH EAST COMMISSIONING REGION,GestationLengthBirth,37 weeks,Babies,685,2026-07-01,2026-07-31
+NHS England (Region),Y59,SOUTH EAST COMMISSIONING REGION,GestationLengthBirth,38 weeks,Babies,1075,2026-07-01,2026-07-31
+NHS England (Region),Y59,SOUTH EAST COMMISSIONING REGION,GestationLengthBirth,39 weeks,Babies,2400,2026-07-01,2026-07-31
+NHS England (Region),Y59,SOUTH EAST COMMISSIONING REGION,GestationLengthBirth,40 weeks,Babies,1520,2026-07-01,2026-07-31
+NHS England (Region),Y59,SOUTH EAST COMMISSIONING REGION,GestationLengthBirth,41 weeks,Babies,820,2026-07-01,2026-07-31
+NHS England (Region),Y59,SOUTH EAST COMMISSIONING REGION,GestationLengthBirth,42 weeks,Babies,75,2026-07-01,2026-07-31
+NHS England (Region),Y59,SOUTH EAST COMMISSIONING REGION,GestationLengthBirth,Missing Value / Value outside reporting parameters,Babies,5,2026-07-01,2026-07-31
+NHS England (Region),Y59,SOUTH EAST COMMISSIONING REGION,GestationLengthBirthGroup37,<37 weeks,Babies,525,2026-07-01,2026-07-31
+NHS England (Region),Y59,SOUTH EAST COMMISSIONING REGION,GestationLengthBirthGroup37,>=37 weeks,Babies,6580,2026-07-01,2026-07-31
+NHS England (Region),Y59,SOUTH EAST COMMISSIONING REGION,GestationLengthBirthGroup37,Missing Value / Value outside reporting parameters,Babies,5,2026-07-01,2026-07-31
+NHS England (Region),Y58,SOUTH WEST COMMISSIONING REGION,GestationLengthBirth,27 weeks and under,Babies,15,2026-07-01,2026-07-31
+NHS England (Region),Y58,SOUTH WEST COMMISSIONING REGION,GestationLengthBirth,28 to 31 weeks,Babies,40,2026-07-01,2026-07-31
+NHS England (Region),Y58,SOUTH WEST COMMISSIONING REGION,GestationLengthBirth,32 to 33 weeks,Babies,40,2026-07-01,2026-07-31
+NHS England (Region),Y58,SOUTH WEST COMMISSIONING REGION,GestationLengthBirth,34 to 36 weeks,Babies,210,2026-07-01,2026-07-31
+NHS England (Region),Y58,SOUTH WEST COMMISSIONING REGION,GestationLengthBirth,37 weeks,Babies,345,2026-07-01,2026-07-31
+NHS England (Region),Y58,SOUTH WEST COMMISSIONING REGION,GestationLengthBirth,38 weeks,Babies,590,2026-07-01,2026-07-31
+NHS England (Region),Y58,SOUTH WEST COMMISSIONING REGION,GestationLengthBirth,39 weeks,Babies,1445,2026-07-01,2026-07-31
+NHS England (Region),Y58,SOUTH WEST COMMISSIONING REGION,GestationLengthBirth,40 weeks,Babies,860,2026-07-01,2026-07-31
+NHS England (Region),Y58,SOUTH WEST COMMISSIONING REGION,GestationLengthBirth,41 weeks,Babies,485,2026-07-01,2026-07-31
+NHS England (Region),Y58,SOUTH WEST COMMISSIONING REGION,GestationLengthBirth,42 weeks,Babies,65,2026-07-01,2026-07-31
+NHS England (Region),Y58,SOUTH WEST COMMISSIONING REGION,GestationLengthBirth,43 weeks and over,Babies,5,2026-07-01,2026-07-31
+NHS England (Region),Y58,SOUTH WEST COMMISSIONING REGION,GestationLengthBirth,Missing Value / Value outside reporting parameters,Babies,5,2026-07-01,2026-07-31
+NHS England (Region),Y58,SOUTH WEST COMMISSIONING REGION,GestationLengthBirthGroup37,<37 weeks,Babies,300,2026-07-01,2026-07-31
+NHS England (Region),Y58,SOUTH WEST COMMISSIONING REGION,GestationLengthBirthGroup37,>=37 weeks,Babies,3785,2026-07-01,2026-07-31
+NHS England (Region),Y58,SOUTH WEST COMMISSIONING REGION,GestationLengthBirthGroup37,Missing Value / Value outside reporting parameters,Babies,5,2026-07-01,2026-07-31
